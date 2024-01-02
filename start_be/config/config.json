@@ -1,0 +1,38 @@
+{
+  "development": {
+    "username": "postgres",
+    "password": "123Post123",
+    "database": "mvc_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "authentication": {
+        "method": "default"
+      }
+    }
+  },
+  "test": {
+    "username": "postgres",
+    "password": "123Post123",
+    "database": "mvc_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "authentication": {
+        "method": "default"
+      }
+    }
+  },
+  "production": {
+    "username": "postgres",
+    "password": "123Post123",
+    "database": "mvc_database",
+    "host": "127.0.0.1",
+    "dialect": "postgres",
+    "dialectOptions": {
+      "authentication": {
+        "method": "default"
+      }
+    }
+  }
+}
